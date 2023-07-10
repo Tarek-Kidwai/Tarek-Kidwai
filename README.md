@@ -32,10 +32,11 @@
 </p>
 
 ## 📚 Featured Projects
-- [Project 1](https://github.com/tarekkidwai/project1): A brief description of your project.
-- [Project 2](https://github.com/tarekkidwai/project2): Another brief description of your project.
+- [SAAS Diet App](https://saas-diet.vercel.app/Compare): SAAS Diet is a powerful app that tracks cloud storage spendings and suggests cost-effective alternatives, empowering users to save money and optimize resource allocation.
+- [Shopping Cart Project](https://shopping-cart-js-project.vercel.app/): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation.
+- [Shopping Cart Project](https://rick-morty-wiki-project.vercel.app): A Vanilla Javascript Shopping Cart Project where users can view products, add them to cart, and checkout. The main priority of the project was data structure and DOM manipulation.
 
 ## 📫 Get in Touch
-- LinkedIn: [Tarek Kidwai](https://www.linkedin.com/in/tarekkidwai/)
-- Website: [www.tarekkidwai.com](https://www.tarekkidwai.com)
-- Email: your-email@example.com
+- LinkedIn: [Tarek Kidwai](https://www.linkedin.com/in/tarek-kidwai/)
+- Website: [www.tarekkidwai.com](https://tarek-kidwai.vercel.app/)
+- Email: tarek.kid@gmail.com
